@@ -1,6 +1,6 @@
 # Road Safety Analysis Report, Visakhapatnam
 
-**Version 3.0** | Released 4 October 2026 | Data: January to September 2026
+**Version 3.5** | Released 4 October 2026 | Data: January to September 2026
 
 Interactive dashboard for the District Road Safety Committee, Visakhapatnam. January to September 2026.
 
@@ -39,6 +39,11 @@ Open the link in Safari. Share → **Add to Home Screen** gives a one-tap icon.
 
 | Version | Date | Changes |
 |---|---|---|
+| 3.5 | 4 October 2026 | Subtle amber highlight on the August vs September tab, marking the focus period. |
+| 3.4 | 4 October 2026 | Section tabs spread edge to edge with equal spacing and slightly larger text; they switch to two rows automatically on narrower screens. |
+| 3.3 | 4 October 2026 | Full section names restored on the tabs (for example "August vs September", "Trends and Causes"); Briefing stays as a header button. |
+| 3.2 | 4 October 2026 | Tab layout reverted to compact, left-aligned tabs. |
+| 3.1 | 4 October 2026 | Section tabs aligned with the page: first and last tabs line up with the content edges, equal spacing between tabs, underline matches each label. |
 | 3.0 | 4 October 2026 | First versioned release. Data from the police register to 29 September 2026, shown as January to September. Reimagined Situation page with the race against 2025 and nine-month comparison (September 2025 estimated). New Data Quality section. Refined monthly and station charts. Plain, executive-ready titles. Briefing moved to a header button. Tabs fit on one line on desktop and iPad landscape. Opens in light mode. |
 
 Version numbers: a minor step (3.1, 3.2) for fixes, wording and layout; a major step (4.0) for a new data extract, a new section or a structural change.
